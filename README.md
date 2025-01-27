@@ -10,7 +10,7 @@ Im Curently Learning
 
 
 
-SKils
+Skils
 
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr)](https://skillicons.dev)
